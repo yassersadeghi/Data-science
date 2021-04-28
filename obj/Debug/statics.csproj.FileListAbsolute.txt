@@ -1,0 +1,72 @@
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\statics.exe.config
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\statics.exe
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\statics.pdb
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Properties.Resources.resources
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.csproj.GenerateResource.Cache
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.exe
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.pdb
+c:\users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\Archive.mdb
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form1.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\PersianDateTime.dll
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\bin\Debug\PersianDateTime.xml
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.csproj.ResolveComReference.cache
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form2.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form3.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form4.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form5.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form6.resources
+C:\Users\yasser\documents\visual studio 2015\Projects\statics\statics\obj\Debug\statics.Form7.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\statics.exe.config
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.csproj.ResolveComReference.cache
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\Archive.mdb
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\PersianDateTime.dll
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\bin\Debug\PersianDateTime.xml
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form1.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form2.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form3.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form4.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form5.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form6.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Form7.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.Properties.Resources.resources
+D:\Projects\FTS\statics - v 1_2_3 -961029 - Copy\statics\obj\Debug\statics.csproj.GenerateResource.Cache
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\statics.exe.config
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.csproj.ResolveComReference.cache
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\Archive.mdb
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\PersianDateTime.dll
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\bin\Debug\PersianDateTime.xml
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form1.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form2.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form3.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form4.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form5.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form6.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Form7.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.Properties.Resources.resources
+D:\Projects\FTS\statics - v 1_3_0 -961210\statics\obj\Debug\statics.csproj.GenerateResource.Cache
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\statics.exe.config
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.csproj.ResolveComReference.cache
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\Archive.mdb
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\statics.exe
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\statics.pdb
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\PersianDateTime.dll
+D:\Projects\FTS\statics - v 1_4_0_\statics\bin\Debug\PersianDateTime.xml
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form1.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form2.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form3.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form4.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form5.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form6.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Form7.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.Properties.Resources.resources
+D:\Projects\FTS\statics - v 1_4_0_\statics\obj\Debug\statics.csproj.GenerateResource.Cache
